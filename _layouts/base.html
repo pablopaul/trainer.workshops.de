@@ -10,11 +10,7 @@
   <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
 
-  {% if page.noindex %}
   <meta name="robots" content="noindex, follow">
-  {% else %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-  {% endif %}
 
   <link rel="stylesheet" href="/assets/css/app.css">
   {% include _ga.html %}
