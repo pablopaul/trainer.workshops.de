@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "files.exclude": {
+    ".sass-cache": true,
+    ".vscode": true,
+    "_site": true
+  },
+  "search.exclude": {
+    ".sass-cache": true,
+    "_site": true
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true
+}
