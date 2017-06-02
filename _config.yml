@@ -1,12 +1,11 @@
-title: PhoenixFramework.de
+title: workshops.de Trainer Portal
 description: ""
-url: "https://phoenixframework.de" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-ga_property: "UA-97181121-1"
+url: "https://trainer.workshops.de" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: workshops_de
+github_username:  workshops-de
+ga_property: "UA-39010393-10"
 permalink: /artikel/:slug/
-repository_url: "https://github.com/workshops-de/phoenixframework.de"
-ws_course_id: 14
+repository_url: "https://github.com/workshops-de/trainer.workshops.de"
 
 include: ["_posts/banners"]
 
