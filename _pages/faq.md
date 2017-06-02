@@ -4,7 +4,7 @@ noindex: true
 sitemap: false
 ---
 
-Wir pflegen dieses FAQ, damit du sorgenlos und auf deine fachlichen und didaktischen Fähigkeiten konzentriert den Workshop optimal durchführen kannst. Falls weitere Fragen offen sind, wende dich jederzeit an [mailto:info@symetics.com](mailto:info@symetics.com).
+Wir pflegen dieses FAQ, damit du sorgenlos und auf deine fachlichen und didaktischen Fähigkeiten konzentriert den Workshop optimal durchführen kannst. Falls weitere Fragen offen sind, wende dich jederzeit an [info@symetics.com](mailto:info@symetics.com).
 
 ## Organisatorisches
 
