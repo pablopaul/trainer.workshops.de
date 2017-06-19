@@ -4,7 +4,7 @@ noindex: true
 sitemap: false
 ---
 
-Wir pflegen dieses FAQ, damit du sorgenlos und auf deine fachlichen und didaktischen Fähigkeiten konzentriert den Workshop optimal durchführen kannst. Falls weitere Fragen offen sind, wende dich jederzeit an [info@symetics.com](mailto:info@symetics.com).
+Wir pflegen dieses FAQ, damit du sorgenlos und auf deine fachlichen und didaktischen Fähigkeiten konzentriert den Workshop optimal durchführen kannst. Falls weitere Fragen offen sind, wende dich jederzeit an [info@workshops.de](mailto:info@workshops.de).
 
 ## Organisatorisches
 
@@ -38,7 +38,7 @@ Du solltest ein Workshop **immer pünktlich** beginnen. In solchen Situationen k
 
 ### Wann und wie stell ich meine Rechnung?
 
-Schicke deine Rechnung bitte im PDF-Format an [buchhaltung@symetics.com](mailto:buchhaltung@symetics.com) .
+Schicke deine Rechnung bitte im PDF-Format an [buchhaltung@workshops.de](mailto:buchhaltung@workshops.de) .
 Bitte nicht per Post, da wir ein papierloses Büro betreiben.
 Wir begleichen die Rechnungen immer am 10. und 25. eines Monats.
 
